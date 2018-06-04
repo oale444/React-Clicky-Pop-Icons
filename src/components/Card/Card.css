@@ -13,10 +13,11 @@
   height: 100%;
   overflow: hidden;
   text-align: center;
-  background:#6CADDC;
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
 }
 .card > .img-container > img {
-  width: 60%
+  width: 200px;
+  height: 200px;
 }
 
 .card > .content {
